@@ -1,0 +1,285 @@
+# view res/layout/fragment_orders.xml #generated:75
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view v11\res/layout-v11/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.NativeActionModeAwareLayout { <init>(...); }
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view AndroidManifest.xml #generated:307
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:313
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class com.autosos.yd.util.CherkNetWorkReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class com.autosos.yd.util.GetuiSdkMsgReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:209
+-keep class com.autosos.yd.util.UpdateStateServe { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.autosos.yd.view.AddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.autosos.yd.view.ChoosePhotoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.autosos.yd.view.DragActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.autosos.yd.view.FinishActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.autosos.yd.view.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.autosos.yd.view.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:113
+-keep class com.autosos.yd.view.MapDragActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.autosos.yd.view.NoticeInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.autosos.yd.view.NoticeView { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.autosos.yd.view.OrderInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.autosos.yd.view.PasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.autosos.yd.view.PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.autosos.yd.view.PayInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.autosos.yd.view.PhotosActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.autosos.yd.view.RecordInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.autosos.yd.view.SetingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.autosos.yd.view.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.autosos.yd.view.UploadPhotoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.autosos.yd.view.WatchPhotoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.autosos.yd.view.testActivity { <init>(...); }
+
+# view res/layout/photo_gallery_item.xml #generated:14
+-keep class com.autosos.yd.widget.CheckableLinearLayout { <init>(...); }
+
+# view res/layout/dialog_round_progress.xml #generated:20
+-keep class com.autosos.yd.widget.CustomImage { <init>(...); }
+
+# view res/layout/activity_watch_photo.xml #generated:8
+-keep class com.autosos.yd.widget.HackyViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/activity_drag_map.xml #generated:29
+# view res/layout/activity_second_drag_map.xml #generated:43
+# view res/layout/my_address.xml #generated:45
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+
+# view res/layout/activity_orders.xml #generated:7
+# view res/layout/activity_records.xml #generated:7
+# view res/layout/fragment_orders_list1.xml #generated:5
+# view res/layout/fragment_orders_list2.xml #generated:5
+# view res/layout/notice.xml #generated:8
+-keep class com.handmark.pulltorefresh.library.PullToRefreshListView { <init>(...); }
+
+# view res/layout/fragment_person.xml #generated:30
+# view res/layout/fragment_person2.xml #generated:9
+# view res/layout/fragment_second_work.xml #generated:30
+-keep class com.handmark.pulltorefresh.library.PullToRefreshScrollView { <init>(...); }
+
+# view res/layout/activity_photos.xml #generated:7
+-keep class com.handmark.pulltorefresh.library.PullToRefreshStaggeredGridView { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.igexin.download.DownloadProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:256
+-keep class com.igexin.download.DownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:252
+-keep class com.igexin.download.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:269
+-keep class com.igexin.getuiext.activity.GetuiExtActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:299
+-keep class com.igexin.getuiext.service.GetuiExtService { <init>(...); }
+
+# view AndroidManifest.xml #generated:278
+-keep class com.igexin.getuiext.service.PayloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:244
+-keep class com.igexin.sdk.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:236
+-keep class com.igexin.sdk.PushManagerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.igexin.sdk.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class com.igexin.sdk.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:230
+-keep class com.igexin.sdk.PushServiceUser { <init>(...); }
+
+# view res/layout/fragment_person.xml #generated:56
+# view res/layout/fragment_person2.xml #generated:38
+-keep class com.makeramen.rounded.RoundedImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:303
+-keep class com.pingplusplus.android.PaymentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:325
+-keep class com.umeng.update.UpdateDialogActivity { <init>(...); }
+
+# view res/layout/thread_photos_view.xml #generated:7
+-keep class uk.co.senab.photoview.PhotoView { <init>(...); }
+
+# onClick res/layout/activity_seting_password.xml #generated:114
+-keepclassmembers class * { *** changePassword(...); }
+
+# onClick res/layout/activity_order_finish.xml #generated:280
+-keepclassmembers class * { *** finish(...); }
+
+# onClick res/layout/activity_order_info.xml #generated:282
+-keepclassmembers class * { *** onArrive(...); }
+
+# onClick res/layout/activity_order_finish.xml #generated:28
+# onClick res/layout/activity_order_info.xml #generated:17
+# onClick res/layout/activity_record_info.xml #generated:27
+-keepclassmembers class * { *** onCall(...); }
+
+# onClick res/layout/activity_choose_photo.xml #generated:34
+-keepclassmembers class * { *** onChooseOk(...); }
+
+# onClick res/layout/activity_drag.xml #generated:1
+# onClick res/layout/activity_login.xml #generated:1
+# onClick res/layout/activity_second_login.xml #generated:1
+-keepclassmembers class * { *** onDismiss(...); }
+
+# onClick res/layout/activity_drag.xml #generated:224
+-keepclassmembers class * { *** onDown(...); }
+
+# onClick res/layout/activity_order_info.xml #generated:325
+-keepclassmembers class * { *** onDrag(...); }
+
+# onClick res/layout/activity_login.xml #generated:84
+# onClick res/layout/activity_second_login.xml #generated:114
+-keepclassmembers class * { *** onLogin(...); }
+
+# onClick res/layout/activity_order_info.xml #generated:182
+-keepclassmembers class * { *** onNav(...); }
+
+# onClick res/layout/activity_order_info.xml #generated:351
+-keepclassmembers class * { *** onPay(...); }
+
+# onClick res/layout/activity_order_info.xml #generated:376
+-keepclassmembers class * { *** onPhoto(...); }
+
+# onClick res/layout/activity_upload_photo.xml #generated:53
+-keepclassmembers class * { *** onSubmit(...); }
+
+# onClick res/layout/activity_pay.xml #generated:166
+-keepclassmembers class * { *** onThirdPay(...); }
+
+# onClick res/layout/activity_record_info.xml #generated:217
+-keepclassmembers class * { *** onViewPhotos(...); }
+
+# onClick res/layout/fragment_second_work.xml #generated:52
+-keepclassmembers class * { *** start(...); }
+
+# onClick res/layout/activity_drag_map.xml #generated:94
+# onClick res/layout/activity_second_drag_map.xml #generated:107
+-keepclassmembers class * { *** startDrag(...); }
+
+# onClick res/layout/activity_pay.xml #generated:149
+# onClick res/layout/activity_pay_info.xml #generated:73
+-keepclassmembers class * { *** takePhoto(...); }
+
+# onClick res/layout/test.xml #generated:12
+-keepclassmembers class * { *** talk(...); }
+
+# onClick res/layout/test.xml #generated:21
+-keepclassmembers class * { *** talk2(...); }
+
+# onClick res/layout/fragment_more.xml #generated:219
+-keepclassmembers class * { *** test(...); }
+
